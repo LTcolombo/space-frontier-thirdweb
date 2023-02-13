@@ -1,6 +1,9 @@
 # Frontier Thirdweb
 Space Frontier Game
 
+#Track
+The Future of Gaming (MAIN BUILD TRACK) + Ship Your First Game 
+
 # Idea
 The game is meant to be a mix of classic RPG games and a city builder mechanics.
 The RPG part is built around NPCs which are player owned NFTs, minted during gameplay.
@@ -26,7 +29,7 @@ The webGL export will connect to localhost, no extra setup required.
 
 # Tech
 ## Client
-Client is built using Unity as a webGL build.
+Client is built using Unity as a webGL build + GamingKit for wallet auth.
 - this allows hassle-free connection to most wallets
 - since the build size is relatively small (release builds just over 15mb) it allows to start playing within seconds after clicking the link (no installs etc).
 
