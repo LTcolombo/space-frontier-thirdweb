@@ -18,6 +18,9 @@ This is a pretty standard node/express app. Use the following to run (assuming t
 npm install
 npm run dev
 ```
+
+Note - `.env` file is intentially commited for testing purposes
+
 ## Client
 The webGL export will connect to localhost, no extra setup required.
 
